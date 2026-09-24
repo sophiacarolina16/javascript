@@ -1,0 +1,13 @@
+{
+    "pokemon-pets.rewards.saveGold": 1000,
+    "pokemon-pets.rewards.saveCooldownSeconds": 0,
+    "pokemon-pets.rewards.savesPerFriendship": 1,
+    "pokemon-pets.rewards.pushGold": 1000,
+    "pokemon-pets.rewards.pushFriendship": 1,
+    "pokemon-pets.rewards.enabled": true,
+    "pokemon-pets.dayNightCycle": true,
+    "pokemon-pets.maxPokemon": 12,
+    "pokemon-pets.telemetry": true,
+    "pokemon-pets.wild": false,
+    "vscode-pokemon.theme": "castle"
+}
